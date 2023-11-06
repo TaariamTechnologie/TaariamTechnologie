@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taariamtechnologie&label=Profile%20views&color=0e75b6&style=flat" alt="taariamtechnologie" /> </p>
 
-- 🔭 I’m currently working on [Minza Academy](https://minza.org)
+- 🔭 I’m currently working on [Taariam Technologie](https://minza.org)
 
 - 🌱 I’m currently learning **Laravel, Symfony, Reactjs, Vuejs,...**
 
